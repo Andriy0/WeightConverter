@@ -1,0 +1,9 @@
+25.0 poods = 409.51750000000004 kg
+32.0 poods = 524.1824 kg
+12.0 poods = 196.5684 kg
+28.0 pounds = 12.700576 kg
+39.0 pounds = 17.690088 kg
+76.0 pounds = 34.472992 kg
+12.0 gramms = 0.012 kg
+32.0 gramms = 0.032 kg
+56.0 gramms = 0.056 kg
